@@ -2,6 +2,9 @@
 # Edited by mauro-gonzalez.dev
 # Mixed default Angular .gitignore file + angular-cli .gitignore file https://github.com/angular/angular-cli/blob/main/.gitignore
 
+# Angular env
+src/environments/environment.development.ts
+
 # Outputs
 bazel-*
 test-project-host-*
