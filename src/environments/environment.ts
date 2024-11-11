@@ -1,4 +1,4 @@
 export const environment: { [k: string]: any } = {
-  giphyApiKey: '',
+  giphyUrl: '',
   production: true
 };

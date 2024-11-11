@@ -4,6 +4,7 @@
 
 # Angular env
 src/environments/environment.development.ts
+.env
 
 # Outputs
 bazel-*
